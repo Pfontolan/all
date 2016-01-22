@@ -1,1 +1,1 @@
-# all
+SELECT "Hello Git" FROM DUAL;
